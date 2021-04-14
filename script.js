@@ -18,6 +18,7 @@ container.addEventListener('mouseleave',(e) => {
 
 
     console.log("H")
+    console.log("Hello world is enoguh fuqui")
     //note 
     //clientX start from edge of the page and go at the point we hover;
     //e.target.offsetLeft only means for the image margin from the left of the page
