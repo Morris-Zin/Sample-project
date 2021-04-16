@@ -20,3 +20,6 @@ img {
     transition: transform 0.3s;
     cursor: pointer;
 }
+.html {
+    box-decoration-break: clone;
+}
